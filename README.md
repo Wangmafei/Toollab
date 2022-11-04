@@ -1,5 +1,4 @@
 <h1 align="center">Tool<a href="https://apps.apple.com/app/id1527357591">lab</a>.app</h1>
-<h3 align="center">Easy to use toolbox for macOS</h3>
 
 <p align="center">
   <img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/82/0c/a7/820ca75e-6913-dbee-8349-794c9ea856f7/AppIcon-0-85-220-0-4-2x.png/1000x0w.webp" width="150">
