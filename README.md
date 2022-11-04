@@ -1,4 +1,4 @@
-<h1 align="center">Tool<a href="https://github.com/DevUtilsApp/DevUtils-app#">lab</a>.app</h1>
+<h1 align="center">Tool<a href="https://apps.apple.com/app/id1527357591">lab</a>.app</h1>
 <h3 align="center">Easy to use toolbox for macOS</h3>
 
 <p align="center">
